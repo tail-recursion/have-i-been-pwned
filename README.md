@@ -28,6 +28,8 @@ Alexa Top 1 Million Rank on the left, website on the right.
 
 12377, fl.ru
 
+14665, daemon-tools.cc
+
 126371, nsv-online.de
 
 13186, autocentrum.pl
