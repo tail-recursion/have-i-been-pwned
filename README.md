@@ -12,6 +12,10 @@ Alexa top 1 million CSV file can be obtained from:
 
 http://s3.amazonaws.com/alexa-static/top-1m.csv.zip
 
+Disclaimer:
+
+This is at the moment very crude data matching. There very well could be sites in the top 1 million that are not included in the list below.
+
 ## Rankings
 
 Alexa Top 1 Million Rank on the left, website on the right.
