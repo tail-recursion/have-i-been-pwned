@@ -16,6 +16,10 @@ Disclaimer:
 
 This is at the moment very crude data matching. There very well could be sites in the top 1 million that are not included in the list below.
 
+Also from Troy's article linked above:
+
+"It should be abundantly clear from this post, but let me explicitly state it anyway: I have no idea how many of these are legitimate, how many are partially correct and how many are outright fabricated. I've consequently flagged this "breach" in HIBP as unverified."
+
 ## Rankings
 
 Alexa Top 1 Million Rank on the left, website on the right.
