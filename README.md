@@ -1,6 +1,6 @@
 # Have I Been Pwned Ranked
 
-The 2,844 websites allegedly effected by data breaches which were added to Have I Been Pwned on 26th of February 2018.
+The 2,844 websites allegedly effected by data breaches which were added to Have I Been Pwned on 26th of February 2018 ranked according to the Alexa Top 1 Million.
 
 ## More information
 
@@ -8,7 +8,7 @@ Troy Hunts blog post:
 
 https://www.troyhunt.com/ive-just-added-2844-new-data-breaches-with-80m-records-to-have-i-been-pwned/
 
-Alexa top 1 million CSV file can be obtained from:
+The Alexa top 1 million CSV file can be obtained from:
 
 http://s3.amazonaws.com/alexa-static/top-1m.csv.zip
 
@@ -16,13 +16,13 @@ Disclaimer:
 
 This is at the moment very crude data matching. There very well could be sites in the top 1 million that are not included in the list below.
 
-Also from Troy's article linked above:
+Also from Troy's article linked above you should note:
 
-"It should be abundantly clear from this post, but let me explicitly state it anyway: I have no idea how many of these are legitimate, how many are partially correct and how many are outright fabricated. I've consequently flagged this "breach" in HIBP as unverified."
+"It should be abundantly clear from this post, but let me explicitly state it anyway: I have no idea how many of these are legitimate, how many are partially correct and how many are outright fabricated. I've consequently flagged this 'breach' in HIBP as unverified."
 
 ## Rankings
 
-Alexa Top 1 Million Rank on the left, website on the right.
+Alexa Top 1 Million Rank, website
 
 108398, lasalle.edu
 
