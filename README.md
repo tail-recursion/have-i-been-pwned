@@ -1,6 +1,6 @@
 # Have I Been Pwned Ranked
 
-The 2,844 websites allegedly effected by data breaches which were added to Have I Been Pwned on 26th of February 2018 ranked according to the Alexa Top 1 Million.
+The 2,844 websites allegedly effected by data breaches which were added to Have I Been Pwned on 26th of February 2018 matched with data from the Alexa Top 1 Million and sorted by rank (popularity). There are 268 matches including malwarebytes.org, autohotkey.com, mtgox.com, lotro.com (Lord of the Rings Online), daemon-tools.cc, vbulletin.org, vbforums.com. 
 
 ## More information
 
