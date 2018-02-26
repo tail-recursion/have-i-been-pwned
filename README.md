@@ -8,6 +8,10 @@ Troy Hunts blog post:
 
 https://www.troyhunt.com/ive-just-added-2844-new-data-breaches-with-80m-records-to-have-i-been-pwned/
 
+Alexa top 1 million CSV file can be obtained from:
+
+http://s3.amazonaws.com/alexa-static/top-1m.csv.zip
+
 ## Rankings
 
 Alexa Top 1 Million Rank on the left, website on the right.
