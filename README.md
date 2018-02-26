@@ -1,7 +1,16 @@
-# have-i-been-pwned
+# Have I Been Pwned Ranked
 
-Sites from the recent Have I Been Pwned breach, ranked according to Alexa top 1 million ranking.
+The 2,844 websites allegedly effected by data breaches which were added to Have I Been Pwned on 26th of February 2018.
 
+## More information
+
+Troy Hunts blog post: 
+
+https://www.troyhunt.com/ive-just-added-2844-new-data-breaches-with-80m-records-to-have-i-been-pwned/
+
+## Rankings
+
+Alexa Top 1 Million Rank on the left, website on the right.
 
 108398, lasalle.edu
 
